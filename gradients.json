@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Elegant Blue Red",
+        "colors": ["#3b5999", "#f40008"]
     }
 ]
